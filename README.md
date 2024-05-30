@@ -1,1 +1,1 @@
-An attempt to create the game wordle clone using IntelliJ Java and the frameworks, allowing to play the game many times and on your locally environment.
+This project is an attempt to create a Wordle clone using IntelliJ IDEA and Java frameworks, allowing you to play the game multiple times in your local environment.
